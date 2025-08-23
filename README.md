@@ -47,10 +47,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsianzuHenry&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsianzuHenry&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsianzuHenry&theme=tokyonight)  
-
+![asianzuhenry's Stats](https://github-readme-stats.vercel.app/api?username=asianzuhenry&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![asianzuhenry's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asianzuhenry&theme=vue-dark&hide_border=true)
+![asianzuhenry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asianzuhenry&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ## 🌐 Connect With Me
